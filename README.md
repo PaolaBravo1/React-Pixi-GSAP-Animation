@@ -1,1 +1,1 @@
-# React / Typescript / TailwindCSS / Zustand
+# React / Typescript / TailwindCSS /Pixi / GSAP /
